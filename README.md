@@ -17,7 +17,17 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Snmtechno.Snmtechno)
 
-![Snake Animation](https://raw.githubusercontent.com/Snmtechno/Snmtechno/output/github-contribution-grid-snake.svg)
+<circle cx="50" cy="50" r="10" fill="blue" />
+
+<filter id="waves" x="0%" y="0%" width="100%" height="100%">
+   <feImage xlink:href="#wavePattern" result="wavePattern" />
+   <feDisplacementMap in="SourceGraphic" in2="wavePattern" scale="20" />
+</filter>
+
+<circle cx="150" cy="70" r="2" fill="white" />
+<circle cx="170" cy="90" r="2" fill="white" />
+<!-- ... Daha fazla yıldız ekleyin ... -->
+
 
 
 
