@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat&logo=selenium)
