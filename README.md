@@ -17,7 +17,8 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Snmtechno.Snmtechno)
 
-![image](https://github.com/Snmtechno/Snmtechno/assets/141073223/0da14df3-2d9c-47ed-83bb-6a7c300a3f53)
+![image](https://github.com/Snmtechno/Snmtechno/assets/141073223/36453bb8-d8b8-4a2e-abd5-c68390a28635)
+
 
 
 
