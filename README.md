@@ -19,13 +19,8 @@
 
 ![image](https://github.com/Snmtechno/Snmtechno/assets/141073223/0da14df3-2d9c-47ed-83bb-6a7c300a3f53)
 
-[Google'a Git](https://www.google.com)
 
 
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Merhaba, Dünya!");
-    }
-}
+
 
 
