@@ -2,6 +2,9 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical)
+
+
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat&logo=selenium)
 ![TestNG](https://img.shields.io/badge/-TestNG-green?style=flat)
