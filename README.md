@@ -6,10 +6,6 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Snmtechno&theme=radical)
-
-
-
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat&logo=selenium)
