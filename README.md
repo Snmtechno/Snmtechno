@@ -20,6 +20,7 @@
 	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/></p>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
