@@ -41,20 +41,22 @@
 </div>
 
 
+
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://example.com/animation1.gif" alt="Animation 1" width="300" height="300"/>
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="70" height="70"/>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://example.com/animation2.gif" alt="Animation 2" width="300" height="300"/>
   </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" width="70" height="70"/>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://example.com/animation3.gif" alt="Animation 3" width="300" height="300"/>
   </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="TestNG" width="70" height="70"/>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://example.com/animation4.gif" alt="Animation 4" width="300" height="300"/>
   </a>
 </p>
+
 
 
 
