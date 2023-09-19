@@ -35,10 +35,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical" />
 </p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>
   <p align="center">
@@ -47,12 +48,6 @@
 </h2>
 		
 				
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
