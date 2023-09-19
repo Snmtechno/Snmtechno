@@ -8,11 +8,14 @@
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 	
 
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical)
 
 <img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
 </div>
