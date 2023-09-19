@@ -1,10 +1,18 @@
 # Java-Projeleri
 <p align="center"><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966"/>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical)
+
+
 <h1 align="center">Hi 👋, I'm Snmtechno</h1>
 <h2> <p align="center">Welcome to my page!:tada:</p></h2>
 <div align="center">
-	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+	<img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
+
 </div>
 
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
@@ -32,7 +40,7 @@
 	<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" 	height="40"/>
 	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/></p>
 
-<h2><p align="center">📊 GitHub Stats</p></h2>
+
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
