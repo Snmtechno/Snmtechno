@@ -40,7 +40,12 @@
 <img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2><p align="center">🧰Technologies and Tools</p></h2>				
+<h2>
+  <p align="center">
+    <a href="https://www.computerworld.com/news/" target="_blank" rel="noopener noreferrer">🧰Technologies and Tools</a>
+  </p>
+</h2>
+		
 				
 
 
