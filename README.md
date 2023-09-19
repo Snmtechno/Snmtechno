@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Snmtechno</h1>
 <h2> <p align="center">Welcome to my page!:tada:</p></h2>
 <div align="center">
-	<img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
+
+ ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+	
 
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical)
 
@@ -12,6 +14,7 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical)
 
+<img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
 </div>
 
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
@@ -34,7 +37,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
