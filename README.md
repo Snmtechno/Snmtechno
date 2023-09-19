@@ -5,6 +5,22 @@
 <h2> <p align="center">Welcome to my page!:tada:</p></h2>
 <div align="center">
 
+<p align="center"> 
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" 	width="40" height="40"/> </a>
+	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" 	width="40" height="40"/> </a>
+	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="TestNG" width="40" height="40"/> </a>
+	<a href="https://poi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="ApachePOI" width="40" height="40"/> </a>
+	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="maven" width="40" height="40"/></a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+	<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" 	height="40"/>
+	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/></p>
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage"alt="snmtechno"/</a></p>
+
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 	
 
@@ -22,21 +38,7 @@
 
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
 				
-<p align="center"> 
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" 	width="40" height="40"/> </a>
-	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" 	width="40" height="40"/> </a>
-	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="TestNG" width="40" height="40"/> </a>
-	<a href="https://poi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="ApachePOI" width="40" height="40"/> </a>
-	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="maven" width="40" height="40"/></a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-	<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" 	height="40"/>
-	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/></p>
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage"alt="snmtechno"/</a></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
