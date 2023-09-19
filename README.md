@@ -29,22 +29,16 @@
 	<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" 	height="40"/>
 	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/></p>
 
-
-
-![](./profile-3d-contrib/profile-season-animate.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <p align="center">
 	<img height="150" width="150" src="webp/left.webp">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokolrrustemi&" alt="sokolrrustemi"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snmtechno&" alt="snmtechno"/>
 	<img height="150" width="150" src="webp/right.webp">
 </br>
 	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-	<img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="sokolrrustemi"/></a>
+	<img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
 </p>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage"alt="sokolrrustemi"/</a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage"alt="snmtechno"/</a></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
