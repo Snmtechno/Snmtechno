@@ -1,17 +1,16 @@
 # Java-Projeleri
 <p align="center"><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966"/>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical)
-
-
 <h1 align="center">Hi 👋, I'm Snmtechno</h1>
 <h2> <p align="center">Welcome to my page!:tada:</p></h2>
 <div align="center">
 	<img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
+
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical)
 
 </div>
 
@@ -69,7 +68,7 @@
 
 <h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center"> 
-	<a href="https://github.com/sokolrrustemi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-	<a href = "mailto: sokolrrustemi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+	<a href="https://github.com/snmtechno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href = "mailto: sinem@henryyork.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </br>
 </p>
