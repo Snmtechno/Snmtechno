@@ -42,20 +42,8 @@
 
 
 
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://example.com/animation1.gif" alt="Animation 1" width="300" height="300"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://example.com/animation2.gif" alt="Animation 2" width="300" height="300"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://example.com/animation3.gif" alt="Animation 3" width="300" height="300"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://example.com/animation4.gif" alt="Animation 4" width="300" height="300"/>
-  </a>
-</p>
+[Click here for Stock Market News.](https://www.investing.com/news/stock-market-news)
+
 
 
 
