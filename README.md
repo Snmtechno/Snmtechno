@@ -42,7 +42,7 @@
 
 <h2>
   <p align="center">
-    <a href="https://www.computerworld.com/news/" target="_blank" rel="noopener noreferrer">🧰Technologies and Tools</a>
+    <a href="https://www.computerworld.com/news/" target="_blank" rel="noopener noreferrer">🧰Technologies and Tools News</a>
   </p>
 </h2>
 		
