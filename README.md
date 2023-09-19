@@ -39,34 +39,23 @@
 
 <img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" width="600" height="300"/>
 </div>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="100" />
-        <br>Java
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="100" height="100" />
-        <br>Selenium
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://testng.org/doc/" target="_blank" rel="noopener noreferrer">
-        <img src="https://testng.org/doc/images/testng.png" alt="TestNG" width="100" height="100" />
-        <br>TestNG
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cucumber.io/images/cucumber-logo.svg" alt="Cucumber" width="100" height="100" />
-        <br>Cucumber
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="70" height="70"/>
+  </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" width="70" height="70"/>
+  </a>
+  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+    <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="TestNG" width="70" height="70"/>
+  </a>
+</p>
+
 
 
 <h2>
