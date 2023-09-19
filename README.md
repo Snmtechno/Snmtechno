@@ -49,7 +49,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-	[Click here for Stock Market News.](https://www.investing.com/news/stock-market-news)	
+<h2>
+  <p align="center">
+    <a href="https://www.investing.com/news/stock-market-news" target="_blank" rel="noopener noreferrer">📈 Stock Market News 👉</a>
+  </p>
+</h2>
+
 				
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
