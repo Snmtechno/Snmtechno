@@ -43,9 +43,10 @@
 
 <h2>
   <p align="center">
-    <a href="https://www.computerworld.com/news/" target="_blank" rel="noopener noreferrer">🧰Technologies and Tools News</a>
+    <a href="https://www.computerworld.com/news/" target="_blank" rel="noopener noreferrer">🧰Technologies and Tools News 👉</a>
   </p>
 </h2>
+
 		
 				
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
