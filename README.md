@@ -14,7 +14,7 @@ I have a strong passion for software, test automation, and technology. On this p
 
 <p align="center"> 
 	 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
+</p>
 										 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" 	width="70" height="70"/> </a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" 	width="70" height="70"/> </a>
