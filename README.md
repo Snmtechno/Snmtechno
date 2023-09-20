@@ -31,8 +31,13 @@
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">Java</a><br>
   <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">Selenium</a><br>
   <a href="https://testng.org/doc/" target="_blank" rel="noopener noreferrer">TestNG</a><br>
-  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">Cucumber</a>
+  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">Cucumber</a><br>
+  <a href="https://dzone.com/" target="_blank" rel="noopener noreferrer">DZone</a><br>
+  <a href="https://www.dev.to/" target="_blank" rel="noopener noreferrer">DEV.to</a><br>
+  <a href="https://www.baeldung.com/" target="_blank" rel="noopener noreferrer">Baeldung</a><br>
+  <a href="https://stackoverflow.blog/" target="_blank" rel="noopener noreferrer">Stack Overflow Blog</a>
 </p>
+
 
  
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -53,21 +58,6 @@
 
 
 </div>
-
-
-<h2>
-  <p align="center">
-    <a href="https://www.computerworld.com/news/" target="_blank" rel="noopener noreferrer">🧰Technologies and Tools News 👉</a>
-  </p>
-</h2>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2>
-  <p align="center">
-    <a href="https://www.investing.com/news/stock-market-news" target="_blank" rel="noopener noreferrer">📈 Stock Market News 👉</a>
-  </p>
-</h2>
 
 				
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
