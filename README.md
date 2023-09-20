@@ -46,9 +46,9 @@ I have a strong passion for software, test automation, and technology. On this p
 
 
 </div>
-<p align="center">
+<div align="center">
   <h1 style="font-weight:bold; color: #2ecc71;">🚀 Learning Resources and Testing Tools 🚀</h1>
-</p>
+</div>
 
 <p align="center">
   <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
