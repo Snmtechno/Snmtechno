@@ -21,6 +21,34 @@
 	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="70" height="70"/></p>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# Learning Resources and Testing Tools
+
+
+## Java
+- [Java Resmi Dokümantasyonu](https://docs.oracle.com/en/java/)
+- [Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/)
+- [Baeldung](https://www.baeldung.com/)
+
+## Selenium
+- [Selenium Resmi Web Sitesi](https://www.selenium.dev/)
+- [SeleniumHQ Browser Automation](https://www.seleniumhq.org/)
+- [ToolsQA - Selenium Tutorial](https://www.toolsqa.com/selenium-webdriver/)
+
+## TestNG
+- [TestNG Resmi Dokümantasyonu](https://testng.org/doc/)
+- [TestNG Tutorials - ToolsQA](https://www.toolsqa.com/testng/)
+
+## Cucumber
+- [Cucumber Resmi Web Sitesi](https://cucumber.io/)
+- [Cucumber Java Tutorial - TutorialsPoint](https://www.tutorialspoint.com/cucumber/cucumber_overview.htm)
+
+## Genel Yazılım ve Test Makaleleri
+- [DZone](https://dzone.com/)
+- [Software Testing Help](https://www.softwaretestinghelp.com/)
+- [A List Apart - Development](https://alistapart.com/topic/development/)
+
+ 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
