@@ -25,23 +25,7 @@ I have a strong passion for software, test automation, and technology. On this p
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Learning Resources and Testing Tools
 
-<p align="center">
-  <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
-  <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a><br>
-  <a href="https://chercher.tech/" target="_blank" rel="noopener noreferrer">Chercher Tech</a><br>
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">Java</a><br>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">Selenium</a><br>
-  <a href="https://testng.org/doc/" target="_blank" rel="noopener noreferrer">TestNG</a><br>
-  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">Cucumber</a><br>
-  <a href="https://dzone.com/" target="_blank" rel="noopener noreferrer">DZone</a><br>
-  <a href="https://www.dev.to/" target="_blank" rel="noopener noreferrer">DEV.to</a><br>
-  <a href="https://www.baeldung.com/" target="_blank" rel="noopener noreferrer">Baeldung</a><br>
-  <a href="https://stackoverflow.blog/" target="_blank" rel="noopener noreferrer">Stack Overflow Blog</a>
-  <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a><br>
-	
-</p>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -62,7 +46,23 @@ I have a strong passion for software, test automation, and technology. On this p
 
 
 </div>
+# Learning Resources and Testing Tools
 
+<p align="center">
+  <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
+  <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a><br>
+  <a href="https://chercher.tech/" target="_blank" rel="noopener noreferrer">Chercher Tech</a><br>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">Java</a><br>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">Selenium</a><br>
+  <a href="https://testng.org/doc/" target="_blank" rel="noopener noreferrer">TestNG</a><br>
+  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">Cucumber</a><br>
+  <a href="https://dzone.com/" target="_blank" rel="noopener noreferrer">DZone</a><br>
+  <a href="https://www.dev.to/" target="_blank" rel="noopener noreferrer">DEV.to</a><br>
+  <a href="https://www.baeldung.com/" target="_blank" rel="noopener noreferrer">Baeldung</a><br>
+  <a href="https://stackoverflow.blog/" target="_blank" rel="noopener noreferrer">Stack Overflow Blog</a>
+  <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a><br>
+	
+</p>
 				
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
