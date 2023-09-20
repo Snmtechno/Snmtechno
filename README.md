@@ -47,7 +47,7 @@
 
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 	
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical" />
   <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical" />
