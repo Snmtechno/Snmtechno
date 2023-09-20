@@ -24,7 +24,7 @@
 
 # Learning Resources and Testing Tools
 
-<h2 align="center">Learning Resources and Testing Tools</h2>
+
 
 <p align="center">
   <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
