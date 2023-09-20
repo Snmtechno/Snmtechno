@@ -38,7 +38,6 @@ I have a strong passion for software, test automation, and technology. On this p
 <p align="center">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical" />
   <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical" />
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical" />
