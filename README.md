@@ -4,9 +4,10 @@
 <h1 align="center">Hi 👋, I'm Sinem </h1>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2> <p align="center">Welcome to my page!I have a strong passion for software, test automation, and technology. On this page, I share the projects I've worked on, my areas of interest, and new things I learn about technology. You can explore the topics of interest in my repositories or check out the learning resources in my README. I eagerly await your feedback and suggestions! Happy browsing! :rocket::tada:</p></h2>
-<div align="center">
  
+### Welcome to my page!
+I have a strong passion for software, test automation, and technology. On this page, I share the projects I've worked on, my areas of interest, and new things I learn about technology. You can explore the topics of interest in my repositories or check out the learning resources in my README. I eagerly await your feedback and suggestions! Happy browsing! 🚀🎉
+
 <p align="center"> 
 	 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
