@@ -26,10 +26,6 @@ I have a strong passion for software, test automation, and technology. On this p
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 	
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
