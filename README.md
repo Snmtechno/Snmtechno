@@ -46,7 +46,9 @@ I have a strong passion for software, test automation, and technology. On this p
 
 
 </div>
-# Learning Resources and Testing Tools
+<p align="center">
+  <h1 style="font-weight:bold; color: #2ecc71;">🚀 Learning Resources and Testing Tools 🚀</h1>
+</p>
 
 <p align="center">
   <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
@@ -59,10 +61,10 @@ I have a strong passion for software, test automation, and technology. On this p
   <a href="https://dzone.com/" target="_blank" rel="noopener noreferrer">DZone</a><br>
   <a href="https://www.dev.to/" target="_blank" rel="noopener noreferrer">DEV.to</a><br>
   <a href="https://www.baeldung.com/" target="_blank" rel="noopener noreferrer">Baeldung</a><br>
-  <a href="https://stackoverflow.blog/" target="_blank" rel="noopener noreferrer">Stack Overflow Blog</a>
-  <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a><br>
-	
+  <a href="https://stackoverflow.blog/" target="_blank" rel="noopener noreferrer">Stack Overflow Blog</a><br>
+  <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>
 </p>
+
 				
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -74,7 +76,9 @@ I have a strong passion for software, test automation, and technology. On this p
 <p align="center"> 
 	<a href="https://github.com/snmtechno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href = "mailto: sinem@henryyork.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-	![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Snmtechno.Snmtechno)
+	
 
 </br>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Snmtechno.Snmtechno)
 </p>
