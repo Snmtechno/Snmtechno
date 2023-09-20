@@ -36,11 +36,12 @@ I have a strong passion for software, test automation, and technology. On this p
 
 <p align="center">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical" />
-  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical" />
+  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical" alt="Snmtechno's streak stats"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical" />
 </p>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
