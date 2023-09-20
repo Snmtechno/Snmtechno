@@ -24,12 +24,14 @@
 
 # Learning Resources and Testing Tools
 
-
-
 <p align="center">
   <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
   <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a><br>
-  <a href="https://chercher.tech/" target="_blank" rel="noopener noreferrer">Chercher Tech</a>
+  <a href="https://chercher.tech/" target="_blank" rel="noopener noreferrer">Chercher Tech</a><br>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">Java</a><br>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">Selenium</a><br>
+  <a href="https://testng.org/doc/" target="_blank" rel="noopener noreferrer">TestNG</a><br>
+  <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">Cucumber</a>
 </p>
 
  
