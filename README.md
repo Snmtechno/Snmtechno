@@ -24,29 +24,13 @@
 
 # Learning Resources and Testing Tools
 
+<h2 align="center">Learning Resources and Testing Tools</h2>
 
-## Java
-- [Java Resmi Dokümantasyonu](https://docs.oracle.com/en/java/)
-- [Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/)
-- [Baeldung](https://www.baeldung.com/)
-
-## Selenium
-- [Selenium Resmi Web Sitesi](https://www.selenium.dev/)
-- [SeleniumHQ Browser Automation](https://www.seleniumhq.org/)
-- [ToolsQA - Selenium Tutorial](https://www.toolsqa.com/selenium-webdriver/)
-
-## TestNG
-- [TestNG Resmi Dokümantasyonu](https://testng.org/doc/)
-- [TestNG Tutorials - ToolsQA](https://www.toolsqa.com/testng/)
-
-## Cucumber
-- [Cucumber Resmi Web Sitesi](https://cucumber.io/)
-- [Cucumber Java Tutorial - TutorialsPoint](https://www.tutorialspoint.com/cucumber/cucumber_overview.htm)
-
-## Genel Yazılım ve Test Makaleleri
-- [DZone](https://dzone.com/)
-- [Software Testing Help](https://www.softwaretestinghelp.com/)
-- [A List Apart - Development](https://alistapart.com/topic/development/)
+<p align="center">
+  <a href="https://mvnrepository.com/" target="_blank" rel="noopener noreferrer">Maven Repository</a><br>
+  <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a><br>
+  <a href="https://chercher.tech/" target="_blank" rel="noopener noreferrer">Chercher Tech</a>
+</p>
 
  
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
