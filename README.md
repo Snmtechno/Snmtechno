@@ -36,6 +36,8 @@
   <a href="https://www.dev.to/" target="_blank" rel="noopener noreferrer">DEV.to</a><br>
   <a href="https://www.baeldung.com/" target="_blank" rel="noopener noreferrer">Baeldung</a><br>
   <a href="https://stackoverflow.blog/" target="_blank" rel="noopener noreferrer">Stack Overflow Blog</a>
+  <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a><br>
+	
 </p>
 
 
