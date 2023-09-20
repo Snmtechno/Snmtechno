@@ -4,8 +4,26 @@
 <h1 align="center">Hi 👋, I'm Sinem </h1>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
  
-### Welcome to my page!
+<div align="center">
+  <h1 style="font-weight:bold; color: #2ecc71; animation: pulse 2s infinite;">🚀 Welcome to my page! 🚀</h1>
+</div>
+
+<style>
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
+
 I have a strong passion for software, test automation, and technology. On this page, I share the projects I've worked on, my areas of interest, and new things I learn about technology. You can explore the topics of interest in my repositories or check out the learning resources in my README. I eagerly await your feedback and suggestions! Happy browsing! 🚀🎉
 
 <p align="center"> 
