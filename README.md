@@ -1,14 +1,16 @@
 
 <p align="center"><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966"/>
 
-<h1 align="center">Hi 👋, I'm Sinem</h1>
+<h1 align="center">Hi 👋, I'm Sinem I have a strong passion for software, test automation, and technology. On this page, I share the projects I've worked on, my areas of interest, and new things I learn about technology. You can explore the topics of interest in my repositories or check out the learning resources in my README. I eagerly await your feedback and suggestions! Happy browsing! :rocket:</h1>
+
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2> <p align="center">Welcome to my page!:tada:</p></h2>
 <div align="center">
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 <p align="center"> 
 	 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> 
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
+										 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" 	width="70" height="70"/> </a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" 	width="70" height="70"/> </a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="TestNG" width="70" height="70"/> </a>
@@ -40,14 +42,13 @@
 	
 </p>
 
-
- 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 	
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Snmtechno&show_icons=true&theme=radical" />
   <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Snmtechno&theme=radical" />
@@ -72,5 +73,7 @@
 <p align="center"> 
 	<a href="https://github.com/snmtechno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href = "mailto: sinem@henryyork.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+	![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Snmtechno.Snmtechno)
+
 </br>
 </p>
