@@ -2,14 +2,13 @@
 <p align="center"><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966"/>
 
 <h1 align="center">Hi 👋, I'm Sinem </h1>
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="left"> 
+<p align="center"> 
     <a href="https://github.com/snmtechno" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
     <a href = "mailto: sinem@henryyork.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href="https://www.linkedin.com/in/your_linkedin_username/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <div align="center">
   <h1 style="font-weight:bold; color: #2ecc71; animation: pulse 2s infinite;">🚀 Welcome to my page! 🚀</h1>
 </div>
