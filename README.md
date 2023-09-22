@@ -43,7 +43,13 @@ I have a strong passion for software, test automation, and technology. On this p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snmtechno&theme=radical" />
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emrtnm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=emrtnm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 	
 
 
