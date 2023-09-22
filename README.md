@@ -77,11 +77,6 @@ I have a strong passion for software, test automation, and technology. On this p
   <a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>
 </p>
 
-				
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2><p align="center">📫 Connect With Me</p></h2>
