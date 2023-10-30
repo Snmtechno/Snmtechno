@@ -13,7 +13,7 @@
   <h1 style="font-weight:bold; color: #2ecc71; animation: pulse 2s infinite;">🚀 Welcome to my page! 🚀</h1>
 </div>
 
-I have a strong passion for software, test automation, and technology. On this page, I share the projects I've worked on, my areas of interest, and new things I learn about technology. You can explore the topics of interest in my repositories . I eagerly await your feedback and suggestions! 🚀🎉
+Passionate about software, test automation, and the advancing world of technology. This page showcases a collection of projects, areas of specialization, and recent insights into the tech realm. Feel free to delve into the repository topics and any feedback or suggestions are highly appreciated. Onward to innovation! 🚀🎉
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
