@@ -32,6 +32,8 @@ Passionate about software, test automation, and the advancing world of technolog
 [![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![Appium](https://img.shields.io/badge/Appium-%2344cc11.svg?style=for-the-badge&logo=appium&logoColor=white)](http://appium.io/)
+
 
 
 
